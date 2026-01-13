@@ -1,14 +1,28 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello+World!;I+am+a+Full+Stack+Developer;I+build+cool+stuff." alt="Typing SVG" />
-</div>
+# Hi there! 👋
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://github-readme-3d-cloud.vercel.app/api?wordlist=Python,Oracle,Deep%20Learning,OpenCV,Node.js,React,TensorFlow,PyTorch,Postgres,Linux,Git,Docker,HTML5,CSS3,JavaScript&backColor=0d1117&wordColor=33C4FF" alt="Rotating Tech Stack" />
-</div>
+I am a developer passionate about **Deep Learning**, **Computer Vision**, and **Oracle APEX** development. I love building systems that combine strong backend logic with intelligent AI features.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,tensorflow,pytorch,opencv,git,docker&perline=5" />
-  </a>
-</div>
+---
+
+### 🔭 What I'm focusing on
+* **Deep Learning:** Building and training CNNs and experimenting with Model Architecture.
+* **Computer Vision:** Working on defect detection and image preprocessing pipelines.
+* **Enterprise Dev:** Building scalable applications using Oracle APEX and Node.js.
+
+### 🛠️ My Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, SQL, PL/SQL |
+| **AI & Vision** | TensorFlow, Keras, OpenCV, NumPy, Pandas |
+| **Web Backend** | Node.js, Express, PostgreSQL |
+| **Tools** | Git, Docker, LaTeX, Oracle Database |
+
+---
+
+### ⚡ Recent Updates
+* Currently exploring advanced **CNN architectures**.
+* Working on a **Hackathon Team Formation System**.
+* Deep diving into **Oracle Cloud** certifications.
+
+Thanks for visiting my profile!
