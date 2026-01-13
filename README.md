@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello+World!;I+am+a+Full+Stack+Developer;I+build+cool+stuff." alt="Typing SVG" />
-</div>
-
 <h1 align="center">
   Hey Developers, I'm <b>Naresh Kumar V</b>
   <br/>
@@ -9,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🧠 <b>Deep Learning Engineer</b> &nbsp;|&nbsp; ☁️ <b>Oracle APEX Dev</b> &nbsp;|&nbsp; 👁️ <b>Computer Vision</b>
+  🧠 <b>Deep Learning Engineer</b> &nbsp;|&nbsp; 🤖 <b>Generative AI</b> &nbsp;|&nbsp; 👁️ <b>Computer Vision</b>
 </h3>
 
 <p align="center">
@@ -19,33 +15,33 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33C4FF&width=450&lines=Training+Deep+Learning+Models...;Building+Oracle+Cloud+Apps...;Detecting+Defects+with+CV...;Exploring+GenAI+Architectures...!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33C4FF&width=450&lines=Training+Deep+Neural+Networks...;Fine-Tuning+LLMs+&+Transformers...;Building+Computer+Vision+Pipelines...;Exploiting+RTX+3050+Cuda+Cores...!!" alt="Typing SVG" />
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right">
+<img src="https://media.giphy.com/media/26tn33ai01UfGWeso/giphy.gif" width="350px" align="right">
 
 <br>
 <br>
 
 > 💡 **ABOUT ME**
 >
-> I’m a Developer passionate about combining **AI** with **Enterprise Systems**. <br>
+> I’m a Developer passionate about **Artificial Intelligence** and **GPU Computing**. <br>
 >
-> I specialize in building **Convolutional Neural Networks (CNNs)** and scalable **Oracle APEX** applications. <br>
+> I specialize in training **Convolutional Neural Networks (CNNs)** and building **RAG Pipelines** for GenAI. <br>
 >
-> Currently working on **Garment Defect Detection** pipelines. <br>
+> Currently researching advanced architectures in **Computer Vision**. <br>
 <br>
 <br>
 <br>
 
 ## 🌱 Learning Journey
 🚀 Currently diving into:
-- ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-- ![Advanced CV](https://img.shields.io/badge/Advanced_CV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-- ![Gen AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+- ![GenAI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+- ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+- ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🤝 Let's Collaborate
-👯 Looking to team up on **Hackathons**, **Computer Vision Research**, and **Open Source Tools**!
+👯 Looking to team up on **LLM Fine-tuning**, **Object Detection Models**, and **Kaggle Competitions**!
 
 ## 📫 Reach Me At
 
@@ -54,7 +50,7 @@
 
 ---
 
-<h3 align="left">🚀 Languages & Tools</h3>
+<h3 align="left">🚀 AI Stack & Tools</h3>
 
 <div align="center">
 
@@ -64,20 +60,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br><b>Python</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/><br><b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/><br><b>C++</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80" height="80" alt="Oracle"/><br><b>Oracle DB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="Postgres"/><br><b>PostgreSQL</b>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80" height="80" alt="TensorFlow"/><br><b>TensorFlow</b>
     </td>
@@ -87,18 +71,30 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="80" height="80" alt="OpenCV"/><br><b>OpenCV</b>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/><br><b>Pandas</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js"/><br><b>Node.js</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" height="80" alt="NumPy"/><br><b>NumPy</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="80" height="80" alt="Jupyter"/><br><b>Jupyter</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" alt="Anaconda"/><br><b>Anaconda</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git"/><br><b>Git</b>
     </td>
   </tr>
 </table>
 
 </div>
 
-## 💻 My Workspace
+## 💻 My Training Rig
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laptop-ASUS_TUF_F15-000000?style=for-the-badge&logo=asus&logoColor=white" />
@@ -118,7 +114,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naresh-Kumar-V&theme=react" alt="Activity Graph" />
 </p>
 
-<h3 align="center">✨ _ “Training models... and patience.”_ 🚀</h3>
+<h3 align="center">✨ _ “Data is the new oil, and I refine it.”_ 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/Naresh-Kumar-V/Naresh-Kumar-V/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
