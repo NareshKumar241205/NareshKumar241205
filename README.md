@@ -4,8 +4,5 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://github-readme-3d-cloud.vercel.app/api?wordlist=Python,Oracle,Deep%20Learning,OpenCV,Node.js,React,TensorFlow,PyTorch,Postgres,Linux,Git,Docker,HTML5,CSS3,JavaScript&backColor=0d1117&wordColor=33C4FF" alt="Rotating Tech Stack" />
 </div>
