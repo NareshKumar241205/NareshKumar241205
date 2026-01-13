@@ -6,3 +6,9 @@
 <div align="center">
   <img src="https://github-readme-3d-cloud.vercel.app/api?wordlist=Python,Oracle,Deep%20Learning,OpenCV,Node.js,React,TensorFlow,PyTorch,Postgres,Linux,Git,Docker,HTML5,CSS3,JavaScript&backColor=0d1117&wordColor=33C4FF" alt="Rotating Tech Stack" />
 </div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,tensorflow,pytorch,opencv,git,docker&perline=5" />
+  </a>
+</div>
