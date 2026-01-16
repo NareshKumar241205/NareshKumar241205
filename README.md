@@ -152,6 +152,19 @@
 
 ---
 
+<h2 align="center">🧩 Project Domains</h2>
+
+<p align="center">
+  👁️ Computer Vision &nbsp;•&nbsp;
+  🤖 Generative AI &nbsp;•&nbsp;
+  📊 Data Science &nbsp;•&nbsp;
+  🧠 Deep Learning &nbsp;•&nbsp;
+  🔌 Embedded + ML &nbsp;•&nbsp;
+  🌐 Web Development
+</p>
+
+---
+
 <h3 align="center">
 ✨ “Understand the data. Engineer the intelligence.” 🚀
 </h3>
