@@ -27,9 +27,9 @@
 >
 > I’m a Developer passionate about **Artificial Intelligence** and **GPU Computing**. <br>
 >
-> I specialize in training **Convolutional Neural Networks (CNNs)** and building **RAG Pipelines** for GenAI. <br>
+> I specialize in training **Convolutional Neural Networks (CNNs)** and **Deep Learning(DL)**. <br>
 >
-> Currently researching advanced architectures in **Computer Vision**. <br>
+> Currently researching architectures in **Computer Vision**. <br>
 <br>
 <br>
 <br>
