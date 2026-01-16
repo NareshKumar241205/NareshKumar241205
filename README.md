@@ -115,7 +115,3 @@
 </p>
 
 <h3 align="center">✨ _ “Data is the new oil, and I refine it.”_ 🚀</h3>
-
-<p align="center">
-  <img src="https://github.com/Naresh-Kumar-V/Naresh-Kumar-V/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
