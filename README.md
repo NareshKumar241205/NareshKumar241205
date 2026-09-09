@@ -1,167 +1,371 @@
-<h1 align="center">
-  Hey Developers, I'm <b>Naresh Kumar</b>
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  🧠 Deep Learning &nbsp;|&nbsp; 🤖 Generative AI &nbsp;|&nbsp; 👁️ Computer Vision
-</h3>
+# `Naresh Kumar V`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-India-orange?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
-</p>
+### AI Developer · AI/ML · Generative AI · Computer Vision · Full-Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33C4FF&center=true&vCenter=true&width=750&lines=Training+Deep+Neural+Networks...;Fine-Tuning+LLMs+%26+Transformers...;Building+Computer+Vision+Pipelines...;GPU-Accelerated+Deep+Learning+on+RTX+3050...!!" />
-</p>
+**Building intelligent systems that solve real-world problems.**
 
-<img src="https://media.giphy.com/media/26tn33ai01UfGWeso/giphy.gif" width="320px" align="right">
+[![GitHub](https://img.shields.io/badge/GitHub-NareshKumar241205-0d1117?style=flat-square&logo=github)](https://github.com/NareshKumar241205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nareshkumar241205/)
+[![Location](https://img.shields.io/badge/India-0d1117?style=flat-square&logo=googlemaps)](https://github.com/NareshKumar241205)
 
-<br><br>
-
-> 💡 **ABOUT ME**
->
-> I’m a developer passionate about **Artificial Intelligence**, **Deep Learning**, and **GPU Computing**.  
-> I focus on building end-to-end systems — from data preprocessing to model training and evaluation.  
-> Currently exploring **Computer Vision**, **Generative AI**, and real-world ML applications.
-
-<br><br><br>
+</div>
 
 ---
 
-## 🌱 Learning Journey
-🚀 Currently diving into:
-- Generative AI & Transformers  
-- LLM Fine-Tuning  
-- Computer Vision Pipelines  
+<div align="center">
+
+### `● ● ●`
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  naresh@github:~$ whoami                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Naresh Kumar V                                                      │
+│                                                                      │
+│  ROLE        : AI Developer                                          │
+│  EDUCATION   : B.Tech CSE-AIE                                        │
+│  INSTITUTION : Amrita Vishwa Vidyapeetham                            │
+│  GRADUATION  : 2027                                                 │
+│  LOCATION    : India                                                 │
+│                                                                      │
+│  FOCUS       : AI / ML · GenAI · Computer Vision · Full Stack       │
+│  STATUS      : Building · Researching · Learning                    │
+│                                                                      │
+│  "Building intelligent systems that solve real-world problems."      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+## `~/about`
+
+```text
+$ neofetch
+
+Name        Naresh Kumar V
+Role        AI Developer
+Education   B.Tech CSE-AIE
+College     Amrita Vishwa Vidyapeetham
+Graduation  2027
+Location    India
+```
+
+I build and explore intelligent systems across **AI/ML, Generative AI, Computer Vision, and full-stack development**. My work is research-oriented, with an emphasis on turning ML ideas into practical systems.
+
+**Focus**
+
+`AI / Machine Learning` · `Generative AI` · `Computer Vision` · `Full-Stack Development` · `Research` · `Open Source`
 
 ---
 
-## 🤝 Let’s Collaborate
-👯 Interested in collaborating on:
-- LLM Fine-Tuning
-- Computer Vision & Object Detection
-- Kaggle / ML Competitions
-- Research-oriented ML projects
+## `~/stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NareshKumar241205&show_icons=true&hide_border=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKumar241205&layout=compact&hide_border=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+
+</div>
+
+> Statistics are generated dynamically from GitHub rather than hardcoded.
 
 ---
 
-## 📫 Reach Me At
+## `~/graph`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nareshkumar241205/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/Naresh_Kumar_2005/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NareshKumar241205&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7ee787&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-<h2 align="center">🧰 Technical Skills & Tools</h2>
+## `~/skills`
 
-<table align="center">
+### `AI / ML`
 
-<!-- Languages & Core Technologies -->
-<tr>
-  <th colspan="6">🔹 Languages & Core Technologies</th>
-</tr>
-<tr align="center">
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br/>Python</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/><br/>C++</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br/>Java</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br/>JavaScript</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br/>SQL</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55"/><br/>Bash</td>
-</tr>
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas` `Statsmodels` `Matplotlib` `Seaborn` `Plotly`
 
-<!-- Libraries & Frameworks -->
-<tr>
-  <th colspan="6">🔹 Libraries & Frameworks</th>
-</tr>
-<tr align="center">
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/><br/>PyTorch</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/><br/>TensorFlow</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/><br/>OpenCV</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/><br/>scikit-learn</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/><br/>scikit-image</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br/>NumPy</td>
-</tr>
+### `GenAI / LLM`
 
-<tr align="center">
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/><br/>Pandas</td>
-  <td><img src="https://avatars.githubusercontent.com/u/10342438?s=200&v=4" width="55"/><br/>Statsmodels</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/><br/>Matplotlib</td>
-  <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="55"/><br/>Seaborn</td>
-  <td></td>
-  <td></td>
-</tr>
+`LLMs` `RAG` `LangChain` `Hugging Face` `Sentence Transformers` `Embeddings` `Semantic Search` `Vector Retrieval` `LLM Applications`
 
-<!-- Tools, Platforms & Systems -->
-<tr>
-  <th colspan="6">🔹 Tools, Platforms & Systems</th>
-</tr>
-<tr align="center">
-  <td><img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="55"/><br/>Plotly</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/><br/>Jupyter</td>
-  <td><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="55"/><br/>Colab</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="55"/><br/>Anaconda</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br/>Git</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br/>GitHub</td>
-</tr>
+### `Computer Vision`
 
-<tr align="center">
-  <td><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="55"/><br/>GitHub Actions</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/><br/>VS Code</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/><br/>Arch Linux</td>
-  <td><img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="55"/><br/>Gradio</td>
-  <td><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="55"/><br/>Streamlit</td>
-  <td></td>
-</tr>
+`OpenCV` `scikit-image` `Image Processing` `Texture Analysis` `Feature Extraction` `Object Detection Concepts` `Classical CV` `FFT` `Gabor Filters` `LBP` `ORB` `Hough Transform` `Morphological Processing`
 
-<tr align="center">
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="55"/><br/>Arduino</td>
-  <td><img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" width="55"/><br/>ESP32</td>
-  <td colspan="4"></td>
-</tr>
+### `Research / Signal Processing`
 
-</table>
+`MNE` `PyEDFlib` `Kymatio` `Wavelet Scattering Transform` `EEG Signal Processing` `Subject-level ML Evaluation`
+
+### `Web Development`
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `JavaScript` `TypeScript`
+
+### `Backend`
+
+`FastAPI` `Node.js` `Express.js` `REST APIs`
+
+### `Databases / Data`
+
+`PostgreSQL` `MongoDB` `Redis` `Supabase` `Vector Databases` `SQL`
+
+### `Cloud / DevOps`
+
+`Docker` `Git` `GitHub Actions` `Linux` `Vercel`
+
+### `Tools / Environment`
+
+`VS Code` `Neovim` `Figma` `Postman` `Jupyter` `Google Colab` `Anaconda` `Gradio` `Streamlit` `Arduino` `ESP32` `GitHub`
+
+### `Music / Sequence Modeling`
+
+`LSTM` `RNN` `TensorFlow / Keras` `music21` `MIDI` `Sequence Modeling`
 
 ---
 
-## 💻 My Training Rig
-<p align="center">
-  <img src="https://img.shields.io/badge/Laptop-ASUS_TUF_F15-000000?style=for-the-badge&logo=asus"/>
-  <img src="https://img.shields.io/badge/GPU-RTX_3050-76B900?style=for-the-badge&logo=nvidia"/>
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux"/>
-</p>
+## `~/learning`
+
+Currently deepening my understanding of:
+
+```text
+Advanced RAG      ████████████████░░░░   DEEPENING
+Agentic AI        ████████████░░░░░░░░   EXPLORING
+MLOps             ██████████░░░░░░░░░░   LEARNING
+```
+
+These indicators are **conceptual labels**, not numerical skill percentages.
 
 ---
 
-## 📊 GitHub Stats
+# `~/projects`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+## `01 · EEG-based MDD Detection`
+
+**Repository:** [`eeg-wavelet-mdd`](https://github.com/NareshKumar241205/eeg-wavelet-mdd)
+
+> Research-focused EEG analysis for Major Depressive Disorder detection using Wavelet Scattering Transform and machine-learning / deep-learning classifiers.
+
+```text
+EEG
+ ↓
+Preprocessing
+ ↓
+Segmentation
+ ↓
+Wavelet Scattering Transform
+ ↓
+Feature Extraction
+ ↓
+ML / DL Classification
+ ↓
+Subject-level Evaluation
+```
+
+**Stack**
+
+`Python` `MNE` `PyEDFlib` `Kymatio` `Wavelet Scattering` `SVM` `Random Forest` `MLP` `CNN / Transformer Concepts` `Balanced Accuracy` `F1` `ROC-AUC`
 
 ---
 
-<h2 align="center">🧩 Project Domains</h2>
+## `02 · FabricQA — Automated Optical Inspection`
 
-<p align="center">
-  👁️ Computer Vision &nbsp;•&nbsp;
-  🤖 Generative AI &nbsp;•&nbsp;
-  📊 Data Science &nbsp;•&nbsp;
-  🧠 Deep Learning &nbsp;•&nbsp;
-  🔌 Embedded + ML &nbsp;•&nbsp;
-  🌐 Web Development
-</p>
+**Repository:** [`Fabrict-Defect-Detection`](https://github.com/NareshKumar241205/Fabrict-Defect-Detection) · [Live Demo](https://fabrict-defect-detection.vercel.app/)
+
+> Reference-free Automated Optical Inspection using classical computer vision and statistical image analysis for textile fabric defect detection.
+
+**Detection**
+
+`Holes` · `Stains` · `Cuts` · `Tears` · `Snags` · `Knots` · `Skip Stitches` · `Wrinkles` · `Weave Irregularities`
+
+**Pipeline**
+
+`LBP` `Local Entropy` `Gabor Filters` `FFT Spectral Analysis` `Morphological Processing` `CLAHE` `Canny` `Hough Lines` `ORB` `Homography` `Pixel Difference` `Z-score Confidence`
+
+**Features**
+
+`Multiple Inspection Modes` `Batch Processing` `CSV Reporting` `Inspection History` `Live Camera Inspection` `Automated Defect Reporting`
+
+**Stack**
+
+`Python` `OpenCV` `Streamlit`
 
 ---
 
-<h3 align="center">
-✨ “Understand the data. Engineer the intelligence.” 🚀
-</h3>
+## `03 · LLM-Powered Book Recommendation`
+
+**Repository:** [`LLM-powered-Book-Recommendation-System`](https://github.com/NareshKumar241205/LLM-powered-Book-Recommendation-System)
+
+> An intelligent recommendation system combining semantic similarity, embeddings, emotion-aware filtering, and LLM-driven recommendations.
+
+```text
+User Intent
+    ↓
+Semantic Representation
+    ↓
+Embedding / Retrieval
+    ↓
+Filtering + Recommendation
+    ↓
+LLM-generated Results
+```
+
+**Core Concepts**
+
+`Semantic Search` `Embeddings` `Vector Retrieval` `LLMs` `Emotion-aware Filtering` `Genre Filtering` `Intent-aware Recommendations`
+
+**Stack**
+
+`Python` `LangChain` `Hugging Face Sentence Transformers` `Gradio`
+
+---
+
+## `04 · LSTM Melody Generator`
+
+**Repository:** [`melody-generator`](https://github.com/NareshKumar241205/melody-generator)
+
+> LSTM-based MIDI melody generation system that learns musical patterns from MIDI sequences and generates new melodies.
+
+```text
+MIDI Sequences
+      ↓
+Sequence Preparation
+      ↓
+Bidirectional LSTM
+      ↓
+LSTM
+      ↓
+Dense + Dropout
+      ↓
+Softmax Prediction
+      ↓
+Generated MIDI
+```
+
+**Stack**
+
+`Python` `TensorFlow` `Keras` `NumPy` `music21` `LSTM` `RNN` `MIDI`
+
+---
+
+## `~/building`
+
+### `Multimodal AI Research Assistant`
+
+**Status:** `EXPLORING / BUILDING`
+
+A current development direction for evolving my RAG and computer-vision experience into a broader AI research system.
+
+```text
+Documents ─────┐
+Images ────────┤
+Research Papers┤
+                ↓
+      Multimodal Processing
+                ↓
+       Embeddings / Retrieval
+                ↓
+               RAG
+                ↓
+         LLM Reasoning
+                ↓
+        Research Assistant
+```
+
+**Potential capabilities**
+
+`Research Paper Ingestion` · `PDF / Document Parsing` · `Semantic Search` · `Vector Retrieval` · `RAG` · `Citation-aware Answers` · `Image Understanding` · `Multimodal Document Analysis` · `Research Summarization` · `Experiment Tracking` · `Knowledge-base Construction`
+
+> This is a **current direction**, not a claim of a completed public repository.
+
+---
+
+## `~/research`
+
+### `Computer Vision + HCI`
+
+Areas I am interested in:
+
+- Human-computer interaction
+- Computer vision
+- Accessibility
+- Intelligent interfaces
+- Real-world AI applications
+
+### `EEG / ML Research`
+
+My `eeg-wavelet-mdd` work explores EEG signal processing, Wavelet Scattering Transform, and subject-level machine-learning evaluation.
+
+> No publication or academic claim is implied unless explicitly verified.
+
+---
+
+## `~/goal`
+
+```text
+GOAL
+
+→ Research deeply
+→ Build intelligently
+→ Engineer reliably
+→ Deploy production-grade AI systems
+```
+
+---
+
+## `~/contact`
+
+<div align="center">
+
+| Channel | Link |
+|:--|:--|
+| GitHub | [@NareshKumar241205](https://github.com/NareshKumar241205) |
+| LinkedIn | [linkedin.com/in/nareshkumar241205](https://www.linkedin.com/in/nareshkumar241205/) |
+| LeetCode | [Naresh_Kumar_2005](https://leetcode.com/u/Naresh_Kumar_2005/) |
+
+</div>
+
+> **Email:** `YOUR_EMAIL`  
+> **Portfolio:** `YOUR_PORTFOLIO`
+
+Replace the placeholders only when you have the final links.
+
+---
+
+## `~/help`
+
+```text
+$ help
+
+about       → About me
+skills      → Technical stack
+projects    → Featured projects
+learning    → Current learning
+research    → Research interests
+building    → Current work
+contact     → Connect with me
+```
+
+---
+
+<div align="center">
+
+### `● ● ●`
+
+```text
+naresh@github:~$ echo "Thanks for visiting!"
+
+Thanks for visiting!
+
+Build.
+Learn.
+Create.
+Repeat.
+```
+
+</div>
