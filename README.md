@@ -90,5 +90,3 @@ Exploring how machines learn</p>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-social-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/social?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Naresh Kumar V community links" />
 </picture></p>
-<p align="center"><a href="https://github.com/nareshkumar241205">GitHub</a></p>
-<p align="center"><sub>Naresh Kumar V · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
