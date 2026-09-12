@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "snake.yml"
+      - ".github/workflows/snake.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
