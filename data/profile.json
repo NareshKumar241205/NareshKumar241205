@@ -1,0 +1,28 @@
+{
+  "name": "Naresh Kumar V",
+  "username": "NareshKumar241205",
+  "headline": "AI DEVELOPER  /  ML RESEARCHER  /  SYSTEM BUILDER",
+  "tagline": "Turning research ideas into useful, explainable software.",
+  "base": "COIMBATORE / INDIA",
+  "education": "AMRITA VISHWA VIDYAPEETHAM",
+  "graduation": "2027",
+  "status": "BUILDING / RESEARCHING / LEARNING",
+  "focus": [
+    { "label": "AI / ML", "color": "cyan", "width": 126 },
+    { "label": "GENAI", "color": "violet", "width": 112 },
+    { "label": "COMPUTER VISION", "color": "orange", "width": 154 },
+    { "label": "FULL STACK", "color": "green", "width": 134 },
+    { "label": "NEXUS-LAB", "color": "pink", "width": 138 }
+  ],
+  "system_profile": [
+    { "label": "ROLE", "value": "AI Developer / ML Researcher", "color": "cyan" },
+    { "label": "FOCUS", "value": "AI / ML   +   GenAI   +   Computer Vision", "color": "violet" },
+    { "label": "RESEARCH", "value": "EEG signals   +   intelligent interfaces", "color": "orange" },
+    { "label": "MISSION", "value": "Build reliable systems with visible reasoning", "color": "green" }
+  ],
+  "projects": [
+    { "title": "[01] EEG MDD", "subtitle": "WAVELET + ML", "stack": "Python / MNE", "color": "cyan" },
+    { "title": "[02] FABRICQA", "subtitle": "VISION QA", "stack": "OpenCV / Streamlit", "color": "orange" },
+    { "title": "[03] BOOK RAG", "subtitle": "SEMANTIC SEARCH", "stack": "LangChain / HF", "color": "violet" }
+  ]
+}

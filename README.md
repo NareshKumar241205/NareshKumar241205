@@ -14,15 +14,9 @@
 
 <div align="center">
 
-<img src="./assets/activity-telemetry.svg" alt="Build telemetry showing Naresh's current AI, research, and full-stack focus" width="100%" />
+<img src="./assets/activity-telemetry.svg" alt="Live GitHub contribution telemetry for Naresh Kumar V" width="100%" />
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshKumar241205/NareshKumar241205/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshKumar241205/NareshKumar241205/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/NareshKumar241205/NareshKumar241205/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity rendered as a snake" width="100%" />
-</picture>
+<sub>Contribution data is fetched from GitHub and the SVG is refreshed automatically.</sub>
 
 </div>
 

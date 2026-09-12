@@ -1,0 +1,61 @@
+name: Refresh Profile Assets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/profile.json"
+      - "scripts/generate_profile_assets.py"
+      - ".github/workflows/profile-assets.yml"
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Fetch contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql \
+            -f query='query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                    weeks {
+                      contributionDays {
+                        contributionCount
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            }' \
+            -F login=NareshKumar241205 > /tmp/contributions.json
+
+      - name: Generate live SVG widgets
+        run: python3 scripts/generate_profile_assets.py --contributions-json /tmp/contributions.json
+
+      - name: Commit changed widgets
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Profile assets are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-dashboard.svg assets/activity-telemetry.svg
+          git commit -m "chore: refresh live profile assets"
+          git push

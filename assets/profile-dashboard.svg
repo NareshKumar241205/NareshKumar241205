@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title description">
   <title id="title">Naresh Kumar V - AI developer profile</title>
-  <desc id="description">A futuristic profile dashboard showing identity, technical focus, and featured machine learning projects.</desc>
+  <desc id="description">A live profile dashboard showing identity, technical focus, contribution totals, and featured machine learning projects.</desc>
   <defs>
     <linearGradient id="background-gradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070b14" />
@@ -15,6 +15,11 @@
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#294b7c" stroke-width="1" opacity="0.12" />
     </pattern>
   </defs>
+  <style>
+    @keyframes pulse { 0%, 100% { opacity: 0.45; } 50% { opacity: 1; } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
   <rect width="1200" height="760" fill="url(#background-gradient)" />
   <rect width="1200" height="760" fill="url(#grid)" />
   <rect x="24" y="24" width="1152" height="712" fill="none" stroke="#294b7c" rx="22" stroke-width="1.5" opacity="1" />
@@ -23,7 +28,8 @@
 <circle cx="52" cy="52" r="6" fill="#ff7a9b" stroke="none" stroke-width="1" opacity="1" />
 <circle cx="73" cy="52" r="6" fill="#ffb86b" stroke="none" stroke-width="1" opacity="1" />
 <circle cx="94" cy="52" r="6" fill="#7ee787" stroke="none" stroke-width="1" opacity="1" />
-<text x="120" y="57" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12px" font-weight="400" text-anchor="start" opacity="1">naresh@github:~$ ./profile --initialize</text>
+<text x="120" y="57" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12px" font-weight="400" text-anchor="start" opacity="1">NareshKumar241205@github:~$ ./profile --initialize</text>
+<circle cx="1021" cy="52" r="4" fill="#7ee787" stroke="none" stroke-width="1" opacity="1" class="pulse" />
 <text x="1148" y="57" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="end" opacity="1" letter-spacing="1.2px">SYSTEM ONLINE</text>
 <text x="58" y="133" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="34px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1px">NARESH KUMAR V</text>
 <text x="60" y="163" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="13px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.2px">AI DEVELOPER  /  ML RESEARCHER  /  SYSTEM BUILDER</text>
@@ -31,14 +37,16 @@
 <line x1="58" y1="218" x2="1142" y2="218" stroke="#1c3154" stroke-width="1" opacity="1" />
 <rect x="60" y="230" width="126" height="28" fill="#50e3ff" stroke="#50e3ff" rx="14" stroke-width="1" opacity="0.14" />
 <text x="123.0" y="249" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">AI / ML</text>
-<rect x="196" y="230" width="112" height="28" fill="#a78bfa" stroke="#a78bfa" rx="14" stroke-width="1" opacity="0.14" />
-<text x="252.0" y="249" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">GENAI</text>
-<rect x="318" y="230" width="154" height="28" fill="#ffb86b" stroke="#ffb86b" rx="14" stroke-width="1" opacity="0.14" />
-<text x="395.0" y="249" fill="#ffb86b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">COMPUTER VISION</text>
-<rect x="482" y="230" width="134" height="28" fill="#7ee787" stroke="#7ee787" rx="14" stroke-width="1" opacity="0.14" />
-<text x="549.0" y="249" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">FULL STACK</text>
-<rect x="626" y="230" width="174" height="28" fill="#ff7a9b" stroke="#ff7a9b" rx="14" stroke-width="1" opacity="0.14" />
-<text x="713.0" y="249" fill="#ff7a9b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">NEXT: NEXUS-LAB</text>
+<rect x="200" y="230" width="112" height="28" fill="#a78bfa" stroke="#a78bfa" rx="14" stroke-width="1" opacity="0.14" />
+<text x="256.0" y="249" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">GENAI</text>
+<rect x="326" y="230" width="154" height="28" fill="#ffb86b" stroke="#ffb86b" rx="14" stroke-width="1" opacity="0.14" />
+<text x="403.0" y="249" fill="#ffb86b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">COMPUTER VISION</text>
+<rect x="494" y="230" width="134" height="28" fill="#7ee787" stroke="#7ee787" rx="14" stroke-width="1" opacity="0.14" />
+<text x="561.0" y="249" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">FULL STACK</text>
+<rect x="642" y="230" width="138" height="28" fill="#ff7a9b" stroke="#ff7a9b" rx="14" stroke-width="1" opacity="0.14" />
+<text x="711.0" y="249" fill="#ff7a9b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">NEXUS-LAB</text>
+<rect x="936" y="230" width="206" height="28" fill="#7ee787" stroke="#7ee787" rx="14" stroke-width="1" opacity="0.14" />
+<text x="1039.0" y="249" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="middle" opacity="1" letter-spacing="0.8px">CONTRIBUTIONS: 82</text>
 <rect x="44" y="270" width="330" height="430" fill="url(#panel-gradient)" stroke="#1c3154" rx="16" stroke-width="1" opacity="1" />
 <rect x="44" y="270" width="4" height="430" fill="#50e3ff" stroke="none" rx="2" stroke-width="1" opacity="1" />
 <text x="66" y="300" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.5px">IDENTITY NODE</text>
@@ -67,7 +75,7 @@
 <text x="66" y="610" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.4px">GRAD</text>
 <text x="352" y="610" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="end" opacity="1">2027</text>
 <text x="66" y="655" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.4px">STATUS</text>
-<circle cx="79" cy="677" r="4" fill="#7ee787" stroke="none" stroke-width="1" opacity="0.95" />
+<circle cx="79" cy="677" r="4" fill="#7ee787" stroke="none" stroke-width="1" opacity="0.95" class="pulse" />
 <text x="92" y="681" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1">BUILDING / RESEARCHING / LEARNING</text>
 <rect x="398" y="270" width="758" height="200" fill="url(#panel-gradient)" stroke="#1c3154" rx="16" stroke-width="1" opacity="1" />
 <rect x="398" y="270" width="4" height="200" fill="#a78bfa" stroke="none" rx="2" stroke-width="1" opacity="1" />
@@ -90,20 +98,20 @@
 <text x="460" y="574" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">[01] EEG MDD</text>
 <text x="444" y="606" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0.6px">WAVELET + ML</text>
 <text x="444" y="632" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="400" text-anchor="start" opacity="1">Python / MNE</text>
-<text x="444" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">OPEN SOURCE MODULE</text>
+<text x="444" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">LIVE PROFILE MODULE</text>
 <rect x="672" y="545" width="220" height="124" fill="#0a1322" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <circle cx="692" cy="570" r="4" fill="#ffb86b" stroke="none" stroke-width="1" opacity="0.95" />
 <text x="706" y="574" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">[02] FABRICQA</text>
 <text x="690" y="606" fill="#ffb86b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0.6px">VISION QA</text>
 <text x="690" y="632" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="400" text-anchor="start" opacity="1">OpenCV / Streamlit</text>
-<text x="690" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">OPEN SOURCE MODULE</text>
+<text x="690" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">LIVE PROFILE MODULE</text>
 <rect x="918" y="545" width="220" height="124" fill="#0a1322" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <circle cx="938" cy="570" r="4" fill="#a78bfa" stroke="none" stroke-width="1" opacity="0.95" />
 <text x="952" y="574" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">[03] BOOK RAG</text>
 <text x="936" y="606" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="0.6px">SEMANTIC SEARCH</text>
 <text x="936" y="632" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="400" text-anchor="start" opacity="1">LangChain / HF</text>
-<text x="936" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">OPEN SOURCE MODULE</text>
+<text x="936" y="654" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="0.8px">LIVE PROFILE MODULE</text>
 <line x1="44" y1="718" x2="1156" y2="718" stroke="#1c3154" stroke-width="1" opacity="1" />
 <text x="44" y="729" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="start" opacity="1" letter-spacing="1.2px">BUILD / LEARN / CREATE / REPEAT</text>
-<text x="1156" y="729" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="end" opacity="1" letter-spacing="1.2px">v1.0 // PROFILE SIGNAL</text>
+<text x="1156" y="729" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="end" opacity="1" letter-spacing="1.2px">AUTO-GENERATED // LIVE DATA</text>
 </svg>
