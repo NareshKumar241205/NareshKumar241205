@@ -1,110 +1,94 @@
 <div align="center">
 
-<img src="./assets/profile-dashboard.svg" alt="Naresh Kumar V futuristic AI developer profile dashboard" width="100%" />
+<p><code>nareshkumar241205@github ~ $ ./maintainer.sh</code></p>
 
-<p>
-  <a href="https://github.com/NareshKumar241205"><img src="https://img.shields.io/badge/GitHub-NareshKumar241205-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/nareshkumar241205/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Naresh_Kumar_2005/"><img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Naresh Kumar V animated maintainer system scan" />
+</picture>
+</p>
+</div>
+
+<h2>Why I build in public</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Jupyter Notebook</code> · <code>JavaScript</code> · <code>Python</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>8 public repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>84 contributions · 24 active days</p></td>
+</tr>
+</table>
+
+<p>AI student @ Amrita Vishwa Vidyapeetham 
+DL | ML | CV | Web Dev
+Exploring how machines learn</p>
+
+<h2>Open-source toolbox</h2>
+
+<p><code>nareshkumar241205@github ~ $ toolbox --list</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Naresh Kumar V open-source technology toolbox" />
+</picture>
 </p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>56%</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>27%</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>7%</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>6%</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4%</sub></td>
+</tr>
+</table>
 
-## `~/activity`
+<h2>Repositories worth exploring</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&repos=nareshkumar241205%2Feeg-wavelet-mdd%2Cnareshkumar241205%2FFabrict-Defect-Detection%2Cnareshkumar241205%2FLLM-powered-Book-Recommendation-System%2Cnareshkumar241205%2Fmelody-generator&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&repos=nareshkumar241205%2Feeg-wavelet-mdd%2Cnareshkumar241205%2FFabrict-Defect-Detection%2Cnareshkumar241205%2FLLM-powered-Book-Recommendation-System%2Cnareshkumar241205%2Fmelody-generator&v=oss-projects-1&mode=dark" width="860" alt="Naresh Kumar V maintainer repositories" />
+</picture>
+</p>
 
-<img src="./assets/activity-telemetry.svg" alt="Live GitHub contribution telemetry for Naresh Kumar V" width="100%" />
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/NareshKumar241205/Fabrict-Defect-Detection">Fabrict-Defect-Detection</a></h3><p>computer vision pipeline implementing Local Binary Patterns (LBP) and Local Entropy filtering for statistical texture segmentation and defect classifi</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/NareshKumar241205/LLM-powered-Book-Recommendation-System">LLM-powered-Book-Recommendation-System</a></h3><p>Built an end-to-end RAG pipeline integrating semantic embeddings, vector retrieval, emotion filtering, and LLM-driven generation to enable intent-awar</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/NareshKumar241205/melody-generator">melody-generator</a></h3><p>An LSTM-based Recurrent Neural Network (RNN) built with TensorFlow/Keras to generate classical music melodies in MIDI format</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<sub>Contribution data is fetched from GitHub and the SVG is refreshed automatically.</sub>
+<h2>Contribution activity</h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Naresh Kumar V open-source signal" />
+</picture>
+</p>
 
-## `~/about`
+<h2>Contribution trail</h2>
 
-I am an AI student and developer at **Amrita Vishwa Vidyapeetham**, exploring how machine learning becomes useful software. My work sits where **AI/ML, Generative AI, computer vision, signal processing, and full-stack engineering** meet.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Naresh Kumar V contribution trail" />
+</picture>
+</p>
 
-| Signal | Current state |
-|:--|:--|
-| Role | AI Developer and ML Researcher |
-| Education | B.Tech CSE-AIE, Amrita Vishwa Vidyapeetham |
-| Graduation | 2027 |
-| Base | Coimbatore, India |
-| Working style | Research deeply, build clearly, ship reliably |
+<hr />
 
-## `~/stack`
+<h2>Contribute together</h2>
 
-| Domain | Tools and concepts |
-|:--|:--|
-| AI / ML | `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas` |
-| GenAI | `RAG` `LangChain` `Hugging Face` `Embeddings` `Semantic Search` |
-| Computer vision | `OpenCV` `scikit-image` `LBP` `Gabor Filters` `FFT` `ORB` |
-| Signal processing | `MNE` `PyEDFlib` `Kymatio` `Wavelet Scattering` |
-| Full stack | `React` `Next.js` `TypeScript` `FastAPI` `Node.js` |
-| Infrastructure | `Docker` `GitHub Actions` `Linux` `Vercel` `PostgreSQL` |
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-## `~/featured-projects`
-
-### `[01]` [EEG-based MDD Detection](https://github.com/NareshKumar241205/eeg-wavelet-mdd)
-
-Research-focused EEG analysis using Wavelet Scattering Transform and machine-learning classifiers for subject-level evaluation.
-
-`Python` `MNE` `PyEDFlib` `Kymatio` `SVM` `Random Forest` `MLP`
-
-### `[02]` [FabricQA - Automated Optical Inspection](https://github.com/NareshKumar241205/Fabrict-Defect-Detection)
-
-Reference-free textile defect detection using classical computer vision, texture analysis, and statistical image processing.
-
-`Python` `OpenCV` `Streamlit` `LBP` `Gabor Filters` `FFT`
-
-### `[03]` [LLM-powered Book Recommendation](https://github.com/NareshKumar241205/LLM-powered-Book-Recommendation-System)
-
-An intent-aware recommendation system combining semantic embeddings, emotion filtering, vector retrieval, and LLM-generated results.
-
-`Python` `LangChain` `Sentence Transformers` `Gradio` `RAG`
-
-### `[04]` [LSTM Melody Generator](https://github.com/NareshKumar241205/melody-generator)
-
-An LSTM sequence model that learns musical patterns from MIDI files and generates new melodies.
-
-`Python` `TensorFlow` `Keras` `NumPy` `music21` `MIDI`
-
-## `~/next-system`
-
-### NEXUS-Lab / Multimodal Research Workspace
-
-`DESIGNING / PROTOTYPING`
-
-A local-first research assistant for papers, images, and datasets. The goal is to connect document parsing, semantic retrieval, visual understanding, citation-aware answers, experiment tracking, and RAG evaluation in one explainable workspace.
-
-`Next.js` `FastAPI` `LangGraph` `Qdrant` `PyMuPDF` `Ollama` `Docker`
-
-> This is a future project direction, not a claim of a completed public repository.
-
-## `~/learning`
-
-```text
-Advanced RAG      [================----] DEEPENING
-Agentic AI        [==============------] EXPLORING
-MLOps             [===========---------] LEARNING
-```
-
-These are directional labels, not numerical skill percentages.
-
-## `~/contact`
-
-| Channel | Link |
-|:--|:--|
-| GitHub | [@NareshKumar241205](https://github.com/NareshKumar241205) |
-| LinkedIn | [linkedin.com/in/nareshkumar241205](https://www.linkedin.com/in/nareshkumar241205/) |
-| LeetCode | [Naresh_Kumar_2005](https://leetcode.com/u/Naresh_Kumar_2005/) |
-
-<div align="center">
-
-```text
-naresh@github:~$ echo "Build. Learn. Create. Repeat."
-```
-
-<sub>Profile visuals are generated from <code>scripts/generate_profile_assets.py</code>.</sub>
-
-</div>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=nareshkumar241205&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178452893%3Fu%3D9039047d700f66ec365615d3a1c1599af5c13305%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Naresh Kumar V community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/nareshkumar241205">GitHub</a></p>
+<p align="center"><sub>Naresh Kumar V · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
