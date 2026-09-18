@@ -42,7 +42,7 @@
 <text x="592" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">15 / 2026-01-13</text>
 <rect x="842" y="101" width="314" height="58" fill="url(#panel-gradient)" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <text x="858" y="122" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.1px">WINDOW</text>
-<text x="858" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">2025-09-14 -&gt; 2026-09-17</text>
+<text x="858" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">2025-09-14 -&gt; 2026-09-18</text>
 <text x="44" y="185" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.3px">CONTRIBUTION CALENDAR</text>
 <text x="1148" y="185" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="400" text-anchor="end" opacity="1" letter-spacing="0.8px">SOURCE: GITHUB CONTRIBUTIONS API</text>
 <rect x="126" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -426,6 +426,7 @@
 <rect x="958" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="958" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="958" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="958" y="284" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <text x="44" y="214" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">SUN</text>
 <text x="44" y="246" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">MON</text>
 <text x="44" y="278" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">WED</text>
