@@ -33,13 +33,13 @@
 <text x="1148" y="56" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="end" opacity="1" letter-spacing="1.2px">LIVE GITHUB DATA</text>
 <rect x="44" y="101" width="248" height="58" fill="url(#panel-gradient)" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <text x="60" y="122" fill="#50e3ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.1px">TOTAL CONTRIBUTIONS</text>
-<text x="60" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">88</text>
+<text x="60" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">123</text>
 <rect x="310" y="101" width="248" height="58" fill="url(#panel-gradient)" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <text x="326" y="122" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.1px">ACTIVE DAYS</text>
-<text x="326" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">22</text>
+<text x="326" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">23</text>
 <rect x="576" y="101" width="248" height="58" fill="url(#panel-gradient)" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <text x="592" y="122" fill="#ffb86b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.1px">PEAK DAY</text>
-<text x="592" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">15 / 2026-01-13</text>
+<text x="592" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">35 / 2026-10-08</text>
 <rect x="842" y="101" width="314" height="58" fill="url(#panel-gradient)" stroke="#1c3154" rx="11" stroke-width="1" opacity="1" />
 <text x="858" y="122" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1" letter-spacing="1.1px">WINDOW</text>
 <text x="858" y="145" fill="#d9e7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11px" font-weight="700" text-anchor="start" opacity="1">2025-10-05 -&gt; 2026-10-08</text>
@@ -94,7 +94,7 @@
 <rect x="222" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="222" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="222" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="222" y="284" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="222" y="284" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="222" y="300" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="238" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="238" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -149,20 +149,20 @@
 <rect x="334" y="300" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="350" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="350" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="350" y="236" width="12" height="12" fill="#b5f6a2" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="350" y="236" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="350" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="350" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="350" y="284" width="12" height="12" fill="#55d68c" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="350" y="284" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="350" y="300" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="366" y="252" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="366" y="252" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="284" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="366" y="300" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="382" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="382" y="220" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="382" y="220" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="382" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="382" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="382" y="268" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -172,7 +172,7 @@
 <text x="398" y="197" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9px" font-weight="700" text-anchor="start" opacity="1">FEB</text>
 <rect x="398" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="398" y="236" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="398" y="252" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="398" y="252" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="398" y="268" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="398" y="284" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="398" y="300" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -332,7 +332,7 @@
 <rect x="750" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="750" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="750" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="750" y="268" width="12" height="12" fill="#0d665b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="750" y="268" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="750" y="284" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="750" y="300" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="766" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -399,7 +399,7 @@
 <rect x="894" y="252" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="894" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="894" y="284" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="894" y="300" width="12" height="12" fill="#1b8f6e" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="894" y="300" width="12" height="12" fill="#143c45" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="910" y="204" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="910" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="910" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
@@ -426,7 +426,7 @@
 <rect x="958" y="220" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="958" y="236" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <rect x="958" y="252" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
-<rect x="958" y="268" width="12" height="12" fill="#111b2b" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
+<rect x="958" y="268" width="12" height="12" fill="#b5f6a2" stroke="none" rx="3" stroke-width="1" opacity="0.95" />
 <text x="44" y="214" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">SUN</text>
 <text x="44" y="246" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">MON</text>
 <text x="44" y="278" fill="#7890b2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="8px" font-weight="700" text-anchor="start" opacity="1">WED</text>
