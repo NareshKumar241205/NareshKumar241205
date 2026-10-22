@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-labelledby="t d">
+<title id="t">Air-Pollution Forecasting</title>
+<desc id="d">Sentinel-5P + Sentinel-2 analysis of NO2, CO and SO2 over Chennai, with 5 to 150 day forecasts. Built with Python · Sentinel-5P · scikit-learn.</desc>
+<style>.ping{animation:ping 2.6s ease-out infinite;transform-origin:350px 96px}@keyframes ping{0%{transform:scale(.2);opacity:.9}100%{transform:scale(2.6);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#50e3ff" stop-opacity=".18"/><stop offset="1" stop-color="#50e3ff" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="438" height="208" rx="14"/></clipPath>
+<clipPath id="art"><rect x="300" y="40" width="124" height="124" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="440" height="210" fill="#0d1117"/>
+<rect width="440" height="210" fill="url(#glow)"/>
+<rect width="4" height="210" fill="#50e3ff"/>
+</g>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#50e3ff" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="26" y="24" width="148" height="22" rx="11" fill="#50e3ff" fill-opacity=".12" stroke="#50e3ff" stroke-opacity=".5"/>
+<text x="99.8" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#50e3ff" letter-spacing=".5">FINAL-YEAR PROJECT</text>
+<text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">Air-Pollution Forecasting</text>
+<g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">Sentinel-5P + Sentinel-2 analysis of</text><text x="26" y="123">NO2, CO and SO2 over Chennai, with 5</text><text x="26" y="142">to 150 day forecasts.</text></g>
+<line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#50e3ff">Python · Sentinel-5P · scikit-learn</text>
+<g clip-path="url(#art)">
+<rect x="300" y="40" width="124" height="124" rx="12" fill="#161b22"/>
+
+<defs><radialGradient id="earth" cx=".35" cy=".35"><stop offset="0" stop-color="#1f6f8b"/><stop offset="1" stop-color="#0b2a3a"/></radialGradient></defs>
+<circle cx="362" cy="102" r="30" fill="url(#earth)" stroke="#50e3ff" stroke-opacity=".5"/>
+<path d="M342 92 q8 -8 18 -2 t14 8 q-6 10 -16 6 t-16 -12z" fill="#2ea043" opacity=".7"/>
+<circle class="ping" cx="350" cy="96" r="5" fill="none" stroke="#ffb86b" stroke-width="2"/>
+<circle cx="350" cy="96" r="2.5" fill="#ffb86b"/>
+<g transform="rotate(-22 362 102)">
+<ellipse cx="362" cy="102" rx="52" ry="22" fill="none" stroke="#50e3ff" stroke-opacity=".45" stroke-dasharray="3 4"/>
+<g><animateMotion dur="6s" repeatCount="indefinite" path="M414 102 A52 22 0 1 1 310 102 A52 22 0 1 1 414 102"/>
+<rect x="-4" y="-4" width="8" height="8" fill="#e6edf3"/><rect x="-14" y="-2.5" width="8" height="5" fill="#50e3ff"/><rect x="6" y="-2.5" width="8" height="5" fill="#50e3ff"/></g>
+</g>
+<text x="362" y="156" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#8b949e">NO2 · CO · SO2</text>
+</g>
+<rect x="300" y="40" width="124" height="124" rx="12" fill="none" stroke="#30363d"/>
+</svg>

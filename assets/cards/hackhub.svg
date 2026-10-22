@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-labelledby="t d">
+<title id="t">HackHub</title>
+<desc id="d">Hackathon platform with explainable AI teammate matching, resume parsing and real-time team updates. Built with React · Node.js · MongoDB · Socket.IO.</desc>
+<style>.link{stroke-dasharray:60;stroke-dashoffset:60;animation:draw 4s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:60}40%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-60}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#ffb86b" stop-opacity=".18"/><stop offset="1" stop-color="#ffb86b" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="438" height="208" rx="14"/></clipPath>
+<clipPath id="art"><rect x="300" y="40" width="124" height="124" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="440" height="210" fill="#0d1117"/>
+<rect width="440" height="210" fill="url(#glow)"/>
+<rect width="4" height="210" fill="#ffb86b"/>
+</g>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#ffb86b" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="26" y="24" width="126" height="22" rx="11" fill="#ffb86b" fill-opacity=".12" stroke="#ffb86b" stroke-opacity=".5"/>
+<text x="89.0" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#ffb86b" letter-spacing=".5">FULL STACK + AI</text>
+<text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">HackHub</text>
+<g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">Hackathon platform with explainable AI</text><text x="26" y="123">teammate matching, resume parsing and</text><text x="26" y="142">real-time team updates.</text></g>
+<line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#ffb86b">React · Node.js · MongoDB · Socket.IO</text>
+<g clip-path="url(#art)">
+<rect x="300" y="40" width="124" height="124" rx="12" fill="#161b22"/>
+<line class="link" style="animation-delay:0.00s" x1="362" y1="100" x2="362.0" y2="58.0" stroke="#50e3ff" stroke-width="2"/><line class="link" style="animation-delay:0.25s" x1="362" y1="100" x2="401.9" y2="87.0" stroke="#7ee787" stroke-width="2"/><line class="link" style="animation-delay:0.50s" x1="362" y1="100" x2="386.7" y2="134.0" stroke="#ffb86b" stroke-width="2"/><line class="link" style="animation-delay:0.75s" x1="362" y1="100" x2="337.3" y2="134.0" stroke="#ff7a9b" stroke-width="2"/><line class="link" style="animation-delay:1.00s" x1="362" y1="100" x2="322.1" y2="87.0" stroke="#a78bfa" stroke-width="2"/><circle cx="362.0" cy="55.0" r="5" fill="#50e3ff"/><path d="M354.0 67.0 q8 -11 16 0" fill="#50e3ff"/><circle cx="401.9" cy="84.0" r="5" fill="#7ee787"/><path d="M393.9 96.0 q8 -11 16 0" fill="#7ee787"/><circle cx="386.7" cy="131.0" r="5" fill="#ffb86b"/><path d="M378.7 143.0 q8 -11 16 0" fill="#ffb86b"/><circle cx="337.3" cy="131.0" r="5" fill="#ff7a9b"/><path d="M329.3 143.0 q8 -11 16 0" fill="#ff7a9b"/><circle cx="322.1" cy="84.0" r="5" fill="#a78bfa"/><path d="M314.1 96.0 q8 -11 16 0" fill="#a78bfa"/><circle cx="362" cy="100" r="14" fill="#161b22" stroke="#e6edf3" stroke-width="2"/><text x="362" y="104" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#e6edf3">AI</text>
+</g>
+<rect x="300" y="40" width="124" height="124" rx="12" fill="none" stroke="#30363d"/>
+</svg>
