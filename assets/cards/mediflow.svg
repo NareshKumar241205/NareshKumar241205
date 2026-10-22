@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-labelledby="t d">
+<title id="t">MediFlow AI</title>
+<desc id="d">Clinical summarization with LongT5 transformers, turning 100K+ health records into structured summaries. Built with Python · LongT5 · Transformers.</desc>
+<style>.doc{animation:doc 4s ease-in-out infinite}@keyframes doc{0%,100%{opacity:.25}20%{opacity:.9}}.sum{transform-box:fill-box;transform-origin:left;animation:sum 4s ease-in-out infinite}@keyframes sum{0%,35%{transform:scaleX(0)}60%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#a78bfa" stop-opacity=".18"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="438" height="208" rx="14"/></clipPath>
+<clipPath id="art"><rect x="300" y="40" width="124" height="124" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="440" height="210" fill="#0d1117"/>
+<rect width="440" height="210" fill="url(#glow)"/>
+<rect width="4" height="210" fill="#a78bfa"/>
+</g>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="26" y="24" width="133" height="22" rx="11" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".5"/>
+<text x="92.6" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#a78bfa" letter-spacing=".5">NLP / HEALTHCARE</text>
+<text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">MediFlow AI</text>
+<g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">Clinical summarization with LongT5</text><text x="26" y="123">transformers, turning 100K+ health</text><text x="26" y="142">records into structured summaries.</text></g>
+<line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a78bfa">Python · LongT5 · Transformers</text>
+<g clip-path="url(#art)">
+<rect x="300" y="40" width="124" height="124" rx="12" fill="#161b22"/>
+<rect x="310" y="56" width="46" height="92" rx="4" fill="#1d2633" stroke="#30363d"/><rect class="doc" style="animation-delay:0.00s" x="316" y="64" width="34" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.12s" x="316" y="73" width="28" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.24s" x="316" y="82" width="36" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.36s" x="316" y="91" width="30" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.48s" x="316" y="100" width="34" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.60s" x="316" y="109" width="24" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.72s" x="316" y="118" width="32" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.84s" x="316" y="127" width="36" height="3.5" rx="1.5" fill="#8b949e"/><rect class="doc" style="animation-delay:0.96s" x="316" y="136" width="26" height="3.5" rx="1.5" fill="#8b949e"/><path d="M362 102 h12 m-5 -5 l5 5 l-5 5" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"/><rect x="380" y="76" width="36" height="52" rx="4" fill="#1d2633" stroke="#a78bfa" stroke-opacity=".6"/><rect class="sum" style="animation-delay:0.00s" x="386" y="86" width="24" height="4" rx="2" fill="#a78bfa"/><rect class="sum" style="animation-delay:0.25s" x="386" y="98" width="20" height="4" rx="2" fill="#50e3ff"/><rect class="sum" style="animation-delay:0.50s" x="386" y="110" width="16" height="4" rx="2" fill="#7ee787"/><text x="362" y="160" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">EHR → summary</text>
+</g>
+<rect x="300" y="40" width="124" height="124" rx="12" fill="none" stroke="#30363d"/>
+</svg>

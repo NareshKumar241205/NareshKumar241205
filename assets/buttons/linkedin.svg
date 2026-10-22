@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-label="Linkedin">
+<style>.sh{animation:sh 4s ease-in-out infinite}@keyframes sh{0%,60%{transform:translateX(-80px)}100%{transform:translateX(320px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><clipPath id="c"><rect x="1" y="1" width="218" height="50" rx="12"/></clipPath>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="220" height="52" fill="#161b22"/><rect class="sh" x="0" y="0" width="60" height="52" fill="url(#s)" transform="skewX(-20)"/></g>
+<rect x="1" y="1" width="218" height="50" rx="12" fill="none" stroke="#4f9cf9" stroke-opacity=".6" stroke-width="1.5"/>
+<rect x="20" y="15" width="22" height="22" rx="4" fill="#4f9cf9"/><text x="31" y="32" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0d1117">in</text>
+<path d="M54.7 31V21.6H56.5V29.3H64.1V31ZM66.7 31V21.6H68.4V31ZM71.6 31V21.6H73.5L79.3 28.5V21.6H81V31H79.1L73.4 24.1V31ZM84.5 31V21.6H86.2V25.5H88.4L91.6 21.6H93.5V22.1L89.9 26.3L93.5 30.5V31H91.6L88.4 27.2H86.2V31ZM96.8 31V21.6H105.5V23.4H98.6V25.5H104.1V27.2H98.6V29.3H105.5V31ZM108.8 31V21.6H116.3Q116.8 21.6 117.2 21.9Q117.7 22.1 117.9 22.5Q118.2 23 118.2 23.5V29.2Q118.2 29.7 117.9 30.1Q117.7 30.5 117.2 30.8Q116.8 31 116.3 31ZM110.7 29.3H116.3Q116.3 29.3 116.4 29.2Q116.4 29.2 116.4 29.1V23.5Q116.4 23.5 116.4 23.4Q116.3 23.4 116.3 23.4H110.7Q110.6 23.4 110.6 23.4Q110.5 23.5 110.5 23.5V29.1Q110.5 29.2 110.6 29.2Q110.6 29.3 110.7 29.3ZM121.4 31V21.6H123.1V31ZM126.4 31V21.6H128.3L134 28.5V21.6H135.8V31H133.9L128.1 24.1V31Z" fill="#e6edf3"/>
+<path d="M186 20 l7 6 l-7 6" fill="none" stroke="#4f9cf9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

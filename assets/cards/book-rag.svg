@@ -3,22 +3,22 @@
 <desc id="d">RAG pipeline that uses embeddings, vector search and emotion filters to recommend books by intent. Built with LangChain · Hugging Face · LLMs.</desc>
 <style>.blip{animation:blip 1.6s ease-in-out infinite}@keyframes blip{0%,100%{opacity:.25}50%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs>
-<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#7ee787" stop-opacity=".18"/><stop offset="1" stop-color="#7ee787" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#a78bfa" stop-opacity=".18"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
 <clipPath id="frame"><rect x="1" y="1" width="438" height="208" rx="14"/></clipPath>
 <clipPath id="art"><rect x="300" y="40" width="124" height="124" rx="12"/></clipPath>
 </defs>
 <g clip-path="url(#frame)">
 <rect width="440" height="210" fill="#0d1117"/>
 <rect width="440" height="210" fill="url(#glow)"/>
-<rect width="4" height="210" fill="#7ee787"/>
+<rect width="4" height="210" fill="#a78bfa"/>
 </g>
-<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#7ee787" stroke-opacity=".35" stroke-width="1.5"/>
-<rect x="26" y="24" width="97" height="22" rx="11" fill="#7ee787" fill-opacity=".12" stroke="#7ee787" stroke-opacity=".5"/>
-<text x="74.6" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#7ee787" letter-spacing=".5">GENAI / RAG</text>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#a78bfa" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="26" y="24" width="104" height="22" rx="11" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".5"/>
+<text x="78.2" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#a78bfa" letter-spacing=".5">RAG PIPELINE</text>
 <text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">LLM Book Recommender</text>
 <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">RAG pipeline that uses embeddings,</text><text x="26" y="123">vector search and emotion filters to</text><text x="26" y="142">recommend books by intent.</text></g>
 <line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>
-<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#7ee787">LangChain · Hugging Face · LLMs</text>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a78bfa">LangChain · Hugging Face · LLMs</text>
 <g clip-path="url(#art)">
 <rect x="300" y="40" width="124" height="124" rx="12" fill="#161b22"/>
 <path id="p" d="M326 70 L362 102 L398 134" fill="none"/><g stroke="#30363d" stroke-width="1.5"><line x1="362" y1="102" x2="326" y2="70"/><line x1="362" y1="102" x2="398" y2="70"/><line x1="362" y1="102" x2="326" y2="134"/><line x1="362" y1="102" x2="398" y2="134"/></g><circle cx="326" cy="70" r="8" fill="#161b22" stroke="#50e3ff" stroke-width="2"/><circle class="blip" style="animation-delay:0.0s" cx="326" cy="70" r="3" fill="#50e3ff"/><circle cx="362" cy="102" r="11" fill="#161b22" stroke="#a78bfa" stroke-width="2"/><circle class="blip" style="animation-delay:0.3s" cx="362" cy="102" r="6" fill="#a78bfa"/><circle cx="398" cy="70" r="8" fill="#161b22" stroke="#7ee787" stroke-width="2"/><circle class="blip" style="animation-delay:0.6s" cx="398" cy="70" r="3" fill="#7ee787"/><circle cx="326" cy="134" r="8" fill="#161b22" stroke="#ffb86b" stroke-width="2"/><circle class="blip" style="animation-delay:0.9s" cx="326" cy="134" r="3" fill="#ffb86b"/><circle cx="398" cy="134" r="8" fill="#161b22" stroke="#ff7a9b" stroke-width="2"/><circle class="blip" style="animation-delay:1.2s" cx="398" cy="134" r="3" fill="#ff7a9b"/><text x="326" y="156" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">mood</text><text x="398" y="156" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">LLM</text><text x="326" y="54" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">query</text><text x="398" y="54" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">books</text><circle r="3" fill="#e6edf3"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M326 70 L362 102 L398 134"/></circle><circle r="3" fill="#e6edf3"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M398 70 L362 102 L326 134"/></circle>

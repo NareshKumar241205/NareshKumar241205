@@ -13,8 +13,8 @@
 <rect width="4" height="210" fill="#ffb86b"/>
 </g>
 <rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#ffb86b" stroke-opacity=".35" stroke-width="1.5"/>
-<rect x="26" y="24" width="126" height="22" rx="11" fill="#ffb86b" fill-opacity=".12" stroke="#ffb86b" stroke-opacity=".5"/>
-<text x="89.0" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#ffb86b" letter-spacing=".5">FULL STACK + AI</text>
+<rect x="26" y="24" width="155" height="22" rx="11" fill="#ffb86b" fill-opacity=".12" stroke="#ffb86b" stroke-opacity=".5"/>
+<text x="103.4" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#ffb86b" letter-spacing=".5">AI-POWERED PLATFORM</text>
 <text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">HackHub</text>
 <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">Hackathon platform with explainable AI</text><text x="26" y="123">teammate matching, resume parsing and</text><text x="26" y="142">real-time team updates.</text></g>
 <line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>

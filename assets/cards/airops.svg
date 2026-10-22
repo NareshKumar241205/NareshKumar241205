@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-labelledby="t d">
+<title id="t">AIROPS</title>
+<desc id="d">Airline reservation platform with relational schemas for flights, bookings and payments, plus secure auth. Built with React · Express · PostgreSQL.</desc>
+<style>.dash{stroke-dasharray:4 5;animation:dash 1.2s linear infinite}@keyframes dash{to{stroke-dashoffset:-18}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="glow" cx=".85" cy=".45" r=".55"><stop offset="0" stop-color="#ffb86b" stop-opacity=".18"/><stop offset="1" stop-color="#ffb86b" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="438" height="208" rx="14"/></clipPath>
+<clipPath id="art"><rect x="300" y="40" width="124" height="124" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="440" height="210" fill="#0d1117"/>
+<rect width="440" height="210" fill="url(#glow)"/>
+<rect width="4" height="210" fill="#ffb86b"/>
+</g>
+<rect x="1" y="1" width="438" height="208" rx="14" fill="none" stroke="#ffb86b" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="26" y="24" width="119" height="22" rx="11" fill="#ffb86b" fill-opacity=".12" stroke="#ffb86b" stroke-opacity=".5"/>
+<text x="85.4" y="39" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" fill="#ffb86b" letter-spacing=".5">ENTERPRISE APP</text>
+<text x="26" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">AIROPS</text>
+<g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e"><text x="26" y="104">Airline reservation platform with</text><text x="26" y="123">relational schemas for flights,</text><text x="26" y="142">bookings and payments, plus secure</text><text x="26" y="161">auth.</text></g>
+<line x1="26" y1="170" x2="414" y2="170" stroke="#30363d"/>
+<text x="26" y="192" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#ffb86b">React · Express · PostgreSQL</text>
+<g clip-path="url(#art)">
+<rect x="300" y="40" width="124" height="124" rx="12" fill="#161b22"/>
+<path class="dash" d="M318 130 Q362 50 408 112" fill="none" stroke="#ffb86b" stroke-opacity=".7" stroke-width="1.6"/><circle cx="318" cy="130" r="5" fill="#ffb86b"/><circle cx="408" cy="112" r="5" fill="#50e3ff"/><text x="318" y="148" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">MAA</text><text x="408" y="130" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" fill="#8b949e">DEL</text><g><animateMotion dur="4s" repeatCount="indefinite" rotate="auto" path="M318 130 Q362 50 408 112"/><path d="M-8 0 L6 0 M2 -6 L6 0 L2 6 M-6 -4 L-3 0 L-6 4" fill="none" stroke="#e6edf3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x="300" y="40" width="124" height="124" rx="12" fill="none" stroke="#30363d"/>
+</svg>
