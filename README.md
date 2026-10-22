@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Developer &nbsp;·&nbsp; ML Researcher &nbsp;·&nbsp; Full-Stack Builder</b><br />
-  <sub>LLMs &amp; RAG &nbsp;|&nbsp; Deep Learning &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Backend &amp; Full-Stack</sub>
-</p>
-
-<p align="center">
-  <a href="https://nareshkumar241205.github.io/NareshKumar241205/explore/"><img src="assets/search.svg" width="100%" alt="Search my skills and projects" /></a>
+  <img src="assets/headline.svg" width="100%" alt="AI Developer, ML Researcher, Full-Stack Builder. LLMs and RAG, Deep Learning, Computer Vision, Backend and Full-Stack." />
 </p>
 
 <picture>
