@@ -14,16 +14,9 @@
 
 I'm a final-year B.Tech Computer Science (Artificial Intelligence) student at **Amrita Vishwa Vidyapeetham**, Coimbatore. I build AI-powered applications end to end: LLM and RAG systems, the backend services behind them, and the full-stack apps that put them in front of people.
 
-```python
-class Naresh:
-    role      = "AI Developer · ML Researcher"
-    education = "B.Tech CSE (AI), Amrita Vishwa Vidyapeetham, 2023-2027"
-    location  = "Coimbatore, India"
-    focus     = ["LLMs & RAG", "Deep Learning", "Computer Vision", "Backend & Full-Stack"]
-    current   = "Satellite air-pollution forecasting over Chennai (final-year project)"
-    community = "Competitive Programming vertical, IETE SF Club"
-    open_to   = ["Internships", "Research collaborations", "Hackathons"]
-```
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="Role: AI Developer and ML Researcher. Education: B.Tech CSE (AI), Amrita Vishwa Vidyapeetham, 2023 to 2027. Location: Coimbatore, India. Community: Competitive Programming vertical, IETE SF Club. Currently building: satellite air-pollution forecasting over Chennai. Focus: LLMs and RAG, Deep Learning, Computer Vision, Backend and Full-Stack. Open to: internships, research collaborations, hackathons." />
+</p>
 
 <!-- ============================== 02 PROJECTS ============================== -->
 
